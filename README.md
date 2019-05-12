@@ -17,3 +17,8 @@ C++, SFML and IMGUI is being developed in parallel. Consider this to be the open
 source counterpart easier to build and prototype counterpart.
 
 Uses JDK 1.8 and Eclipse 2019.3
+
+## Special Thanks
+
+Fonts [m5x7.ttf](https://managore.itch.io/m5x7) and 
+[m6x11.ttf](https://managore.itch.io/m6x11) by Daniel Linssen (@managore)
